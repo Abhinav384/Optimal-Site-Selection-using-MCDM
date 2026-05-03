@@ -1,0 +1,10 @@
+address_results/
+amritsar-district-wise/
+data/Amritsar_May2024_Hourly_GHI_Fixed.csv
+conference_paper.tex
+conference.tex
+.DS_Store
+.venv/
+.cache/
+__pycache__/
+*.py[cod]
